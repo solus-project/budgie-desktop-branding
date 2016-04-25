@@ -1,0 +1,4 @@
+[org.gnome.desktop.wm.preferences]
+button-layout='appmenu:minimize,maximize,close'
+theme='Arc-Darker'
+titlebar-font='Clear Sans Bold 11'
