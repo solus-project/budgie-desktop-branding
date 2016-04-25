@@ -2,7 +2,7 @@ BUDGIE_SCHEMAS = \
 	com.solus-project.icon-tasklist.gschema.override
 
 %.gschema.override:
-	echo > $@ ;
+	rm -f $@ ;
 	for i in ${BUDGIE_SCHEMAS} ; do \
 	    cat $${i} >> $@; \
 	    echo  >> $@; \

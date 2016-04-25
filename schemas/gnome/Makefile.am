@@ -5,7 +5,7 @@ GNOME_SCHEMAS = \
 	org.gnome.settings-daemon.plugins.xsettings.gschema.override
 
 %.gschema.override:
-	echo > $@ ;
+	rm -f $@ ;
 	for i in ${GNOME_SCHEMAS} ; do \
 	    cat $${i} >> $@; \
 	    echo  >> $@; \
