@@ -1,7 +1,8 @@
 GNOME_SCHEMAS = \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
-	org.gnome.desktop.wm.preferences.gschema.override
+	org.gnome.desktop.wm.preferences.gschema.override \
+	org.gnome.settings-daemon.plugins.xsettings.gschema.override
 
 EXTRA_DIST = \
 	$(GNOME_SCHEMAS)
