@@ -1,4 +1,4 @@
 [org.gnome.desktop.interface]
-icon-name=Faba-Mono
-gtk-theme=Arc-Darker
-font-name=Clear Sans 10
+icon-name='Faba-Mono'
+gtk-theme='Arc-Darker'
+font-name='Clear Sans 10'
