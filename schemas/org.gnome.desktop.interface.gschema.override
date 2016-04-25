@@ -1,5 +1,5 @@
 [org.gnome.desktop.interface]
-icon-name='Faba-Mono'
-gtk-theme='Arc-Darker'
-font-name='Clear Sans 10'
 cursor-theme='breeze-snow-cursor'
+font-name='Clear Sans 10'
+gtk-theme='Arc-Darker'
+icon-name='Faba-Mono'
