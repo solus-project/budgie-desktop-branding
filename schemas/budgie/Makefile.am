@@ -17,3 +17,5 @@ overridesdir = \
 overrides_DATA = \
 	10_budgie_settings.gschema.override
 
+distclean-local:
+	rm -fv ${top_builddir}/schemas/budgie/10_budgie_settings.gschema.override
