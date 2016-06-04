@@ -3,6 +3,7 @@ AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects])
 AC_PREFIX_DEFAULT(/usr/local)
 
 AC_CONFIG_FILES([Makefile
+                icon/Makefile
                 schemas/Makefile
                 schemas/budgie/Makefile
                 schemas/gnome/Makefile
