@@ -1,2 +1,2 @@
 [com.solus-project.icon-tasklist]
-pinned-launchers=['solus-sc.desktop']
+pinned-launchers=['solus-sc.desktop','firefox.desktop','hexchat.desktop','vlc.desktop','rhythmbox.desktop']
