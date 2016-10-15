@@ -1,5 +1,5 @@
 LIVECD_SCHEMAS = \
-	org.gnome.desktop.screensaver.gschema.override
+	org.gnome.desktop.screensaver.gschema.override \
 	com.solus-project.icon-tasklist.gschema.override
 
 %.gschema.override:
