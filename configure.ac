@@ -1,4 +1,4 @@
-AC_INIT([Budgie Desktop Branding], 5, [ikey@solus-project.com], [budgie-desktop-branding], [https://solus-project.com/])
+AC_INIT([Budgie Desktop Branding], 6, [ikey@solus-project.com], [budgie-desktop-branding], [https://solus-project.com/])
 AM_INIT_AUTOMAKE([-Wno-portability no-dist-gzip dist-xz foreign subdir-objects])
 AC_PREFIX_DEFAULT(/usr/local)
 
