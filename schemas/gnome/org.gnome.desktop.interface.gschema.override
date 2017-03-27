@@ -1,5 +1,5 @@
 [org.gnome.desktop.interface]
-cursor-theme='breeze-snow-cursor'
+cursor-theme='breeze-cursor'
 font-name='Clear Sans 10'
 gtk-theme='Arc-Darker'
 icon-theme='Arc'
