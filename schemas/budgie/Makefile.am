@@ -1,6 +1,5 @@
 BUDGIE_SCHEMAS = \
-	com.solus-project.icon-tasklist.gschema.override \
-	org.freedesktop.ibus.panel.gschema.override
+	com.solus-project.icon-tasklist.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
