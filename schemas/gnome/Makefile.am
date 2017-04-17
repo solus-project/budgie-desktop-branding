@@ -1,6 +1,7 @@
 GNOME_SCHEMAS = \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
+	org.gnome.desktop.screensaver.gschema.override \
 	org.gnome.nautilus.icon-view.gschema.override \
 	org.gnome.desktop.wm.preferences.gschema.override \
 	org.gnome.settings-daemon.plugins.xsettings.gschema.override
