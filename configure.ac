@@ -9,5 +9,6 @@ AC_CONFIG_FILES([Makefile
                 schemas/Makefile
                 schemas/budgie/Makefile
                 schemas/gnome/Makefile
-                schemas/livecd/Makefile])
+                schemas/livecd/Makefile
+                schemas/material/Makefile])
 AC_OUTPUT

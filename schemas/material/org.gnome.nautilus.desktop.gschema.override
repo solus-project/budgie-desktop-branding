@@ -1,0 +1,5 @@
+[org.gnome.nautilus.desktop]
+home-icon-visible=false
+network-icon-visible=false
+trash-icon-visible=false
+volumes-visible=false

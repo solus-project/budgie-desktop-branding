@@ -1,0 +1,6 @@
+[org.gnome.desktop.interface]
+cursor-theme='breeze-cursor'
+font-name='Clear Sans 10'
+gtk-theme='Adapta'
+icon-theme='Papirus'
+show-desktop-icons=true

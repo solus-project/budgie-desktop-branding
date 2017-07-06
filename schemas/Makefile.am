@@ -1,4 +1,5 @@
 SUBDIRS = \
 	budgie \
 	gnome \
-	livecd
+	livecd \
+	material
