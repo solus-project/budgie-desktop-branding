@@ -1,3 +1,3 @@
-[com.solus-project.budgie-panel.gschema.override]
+[com.solus-project.budgie-panel]
 builtin-theme=false
 dark-theme=false
