@@ -5,7 +5,8 @@ MATERIAL_SCHEMAS = \
 	org.gnome.desktop.screensaver.gschema.override \
 	org.gnome.nautilus.desktop.gschema.override \
 	org.gnome.nautilus.icon-view.gschema.override \
-	org.gnome.desktop.wm.preferences.gschema.override
+	org.gnome.desktop.wm.preferences.gschema.override \
+	x.dm.slick-greeter.gschema.override
 
 %.gschema.override:
 	rm -f $@ ;
