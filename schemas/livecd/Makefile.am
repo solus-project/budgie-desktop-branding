@@ -17,7 +17,7 @@ overridesdir = \
 	$(datadir)/glib-2.0/schemas
 
 overrides_DATA = \
-	20_budgie_livecd.gschema.override
+	30_budgie_livecd.gschema.override
 
 distclean-local:
-	rm -fv ${top_builddir}/schemas/livecd/20_budgie_livecd.gschema.override
+	rm -fv ${top_builddir}/schemas/livecd/30_budgie_livecd.gschema.override
