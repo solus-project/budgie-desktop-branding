@@ -1,2 +1,3 @@
 [org.gnome.desktop.wm.preferences]
 theme='Adapta'
+titlebar-font='Noto Sans Bold 9'
