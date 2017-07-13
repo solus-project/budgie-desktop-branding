@@ -1,4 +1,5 @@
 MATERIAL_SCHEMAS = \
+	com.solus-project.budgie-menu.gschema.override \
 	com.solus-project.budgie-panel.gschema.override \
 	org.gnome.desktop.background.gschema.override \
 	org.gnome.desktop.interface.gschema.override \
