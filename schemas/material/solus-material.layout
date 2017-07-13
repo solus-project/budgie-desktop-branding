@@ -1,0 +1,36 @@
+[Panels]
+Panels=Bottom Panel
+
+[Bottom Panel]
+Children=Budgie Menu;Icon Tasklist;Tray;Notifications;Status;User Indicator;Clock;Raven Trigger;
+Position=Bottom
+
+[Budgie Menu]
+ID=Budgie Menu
+
+[Icon Tasklist]
+ID=Icon Task List
+
+[Tray]
+ID=System Tray
+Alignment=end
+
+[Notifications]
+ID=Notifications
+Alignment=end
+
+[Status]
+ID=Status Indicator
+Alignment=end
+
+[User Indicator]
+ID=User Indicator
+Alignment=end
+
+[Clock]
+ID=Clock
+Alignment=end
+
+[Raven Trigger]
+ID=Raven Trigger
+Alignment=end

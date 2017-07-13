@@ -1,3 +1,4 @@
 [com.solus-project.budgie-panel]
 builtin-theme=false
 dark-theme=false
+layout='solus-material'
