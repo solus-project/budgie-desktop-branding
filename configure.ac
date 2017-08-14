@@ -4,7 +4,6 @@ AC_PREFIX_DEFAULT(/usr/local)
 
 AC_CONFIG_FILES([Makefile
                 env/Makefile
-                icon/Makefile
                 lightdm/Makefile
                 schemas/Makefile
                 schemas/budgie/Makefile
