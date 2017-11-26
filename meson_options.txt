@@ -1,0 +1,1 @@
+option('with-profile-dir', description: 'Profile directory', type: 'string')
