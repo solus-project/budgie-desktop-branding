@@ -1,9 +1,9 @@
 [Panels]
-Panels=Bottom Panel
+Panels=Top Panel
 
-[Bottom Panel]
+[Top Panel]
 Children=Budgie Menu;Icon Tasklist;Tray;Notifications;Status;User Indicator;Clock;Raven Trigger;
-Position=Bottom
+Position=Top
 
 [Budgie Menu]
 ID=Budgie Menu
