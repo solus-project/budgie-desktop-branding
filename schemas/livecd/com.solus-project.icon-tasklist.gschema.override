@@ -1,2 +1,2 @@
 [com.solus-project.icon-tasklist]
-pinned-launchers=['org.gnome.Nautilus.desktop', 'firefox.desktop','hexchat.desktop','vlc.desktop','rhythmbox.desktop']
+pinned-launchers=['org.gnome.Nautilus.desktop', 'firefox.desktop','hexchat.desktop','io.github.GnomeMpv.desktop','rhythmbox.desktop']
